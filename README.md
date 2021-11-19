@@ -1,2 +1,2 @@
-# magic-memory
-First Training Project
+# tripago
+Second Training Project
