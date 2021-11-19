@@ -1,2 +1,2 @@
-# magic-memory
-First Training Project
+# cooking-ninja
+Third Training Project
